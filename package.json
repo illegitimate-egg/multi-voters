@@ -1,0 +1,17 @@
+{
+  "name": "Multi Vote",
+  "version": "0.1.0",
+  "description": "balls",
+  "license": "MIT",
+  "author": "illegitimate-egg",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "log4js": "^6.9.1",
+    "socket.io": "^4.8.1"
+  }
+}
